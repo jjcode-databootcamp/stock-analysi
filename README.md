@@ -51,5 +51,6 @@ It appears there appears to be a huge difference in terms of refactor and the or
 5. It cuts down on length of script.
 
 **Refactoring the original VBA script**
+
 The above appears to be  true for most VBA scrip refactor. Take for example run time from the above analysis it cut down the processing time by .06 seconds for the refactore code and it was so much easier to read after refactor and the length of script did decrease as well. 
 
